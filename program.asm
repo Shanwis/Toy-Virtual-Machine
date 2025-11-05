@@ -1,4 +1,4 @@
-PSH 6       ; Push 5
+PSH 7       ; Push 5
 STR A       ; Store n in register A (A=5). Stack is empty.
 PSH 1       ; Push 1
 STR B       ; Store result in register B (B=1). Stack is empty.
